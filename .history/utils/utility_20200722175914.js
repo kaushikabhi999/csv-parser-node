@@ -2,7 +2,6 @@ const splitInputLine = (
     line, // line to be split
     header = null, // header items 
     seperators = null, // seperator array to find valid seperators
-    returnArray=false
    
   ) => {
     
